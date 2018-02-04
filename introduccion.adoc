@@ -1,0 +1,38 @@
+= Workshop de Red Hat Gluster v3..
+Miguel Pineda <mpinedam@redhat.com>
+
+
+=== ¿Para quién está dirigido este workshop?
+
+Nivel de competencia: Bśsico
+Duración: 12 horas
+Programa: Red Hat Skills Exchange, RHSE
+Audiencia: Delivery, Consultoría, Consultor SA/Solution Architect.
+
+=== Objetivos del workshop
+
+Red Hat Gluster Storage 3.1.1: utilizando Gdeploy
+Descripción general sobre cómo usar gdeploy para instalar y configurar Red Hat Storage 3.1.1.
+
+Al completar este workshop, usted debería ser capaz de:
+
+* Preparar un entorno para usar gdeploy.
+* Crear archivo de configuración gdeploy.
+* Usar la utilidad gdeploy para crear varias implementaciones de RHS 3.1.1.
+* Usar la utilidad gstatus para verificar las implementaciones.
+* Resuelver problemas comunes de gdeploy.
+
+Prerrequisitos: Ingeniero certificado de Red Hat o experiencia equivalente y Administración de almacenamiento de Red Hat Gluster con examen de especialización (RH237)
+
+=== Introducción.
+Red Hat Gluster Storage 3 Bases.
+
+Red Hat Gluster Storage 3 Bases es un curso práctico basado en laboratorios para administradores de sistemas y almacenamiento interesados ​​en utilizar Red Hat Gluster Storage para crear almacenamiento escalable y de alta disponibilidad en hardware comercial y en entornos de nube. Red Hat Gluster Storage proporciona una solución de almacenamiento abierta definida por software en recursos físicos, virtuales y en la nube. Este curso se basa en Red Hat Enterprise Linux 7.2 y Red Hat Gluster Storage 3.1
+
+Red Hat Gluster Storage 3 Bases cubre la arquitectura de Red Hat Gluster Storage, los tipos y usos de volúmenes de almacenamiento compartidos y los volúmenes de montaje en sistemas cliente utilizando múltiples protocolos de almacenamiento simultáneamente.
+
+Se explican los seis pasos de diseño para determinar la configuración de clúster correcta en función de la carga de trabajo/ objetivo, así como los conceptos avanzados de instantáneas y geo-replicación. Los estudiantes aprenden los componentes de la pila de tecnología GlusterFS y cómo acceder a los sistemas de archivos compartidos de alta disponibilidad a través de la red usando Gluster Native Client (montaje directo), sistemas comunes de archivos de Internet (CIFS) y sistemas de archivos de red (NFS). Los estudiantes que completen este curso sabrán cómo utilizar y demo las agrupaciones de almacenamiento confiables en un grupo de servidores de almacenamiento Red Hat Gluster.
+
+
+=== 1 .- Arquitectura de Laboratorio. 
+
